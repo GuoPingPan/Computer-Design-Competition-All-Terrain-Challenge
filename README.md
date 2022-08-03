@@ -7,12 +7,12 @@
 让机器狗模仿猎狗跟随猎人打猎，要无碰撞通过检查点，并在检查点处完成猎物识别，语音播报。
 <div align="center"><img src="demo/赛题.png" width="480"/></div>
 
-##图像数据集
+## 图像数据集
 
 Animals-10：https://www.kaggle.com/alessiocorrado99/animals10
 要求使用PaddlePaddle开发（*不允许使用额外资料）
 
-##硬件设备
+## 硬件设备
 - UP Board 
   - 深度相机D435i 
   - 六麦麦克风阵列
@@ -22,7 +22,7 @@ Animals-10：https://www.kaggle.com/alessiocorrado99/animals10
   - 广角相机
   - 16线激光雷达[选配]
 
-##算法设计
+## 算法设计
 
 ### peopleTracking-deeprobotics
 
